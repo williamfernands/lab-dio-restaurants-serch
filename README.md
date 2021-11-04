@@ -1,7 +1,7 @@
 # lab-dio-restaurants-serch
 Criando um site para encontrar restaurantes usando React.JS e Google Maps que consulta API do Google
 
-[restaurants](https://github.com/williamfernands/lab-dio-restaurants-serch/blob/main/src/assets/restaurants-search.png)
+![restaurants](https://github.com/williamfernands/lab-dio-restaurants-serch/blob/main/src/assets/restaurants-search.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
